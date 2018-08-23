@@ -1,0 +1,3 @@
+var workHour = 52;
+
+alert('나는 '+ workHour*3600+'초 일했습니다.');
